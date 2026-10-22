@@ -1,5 +1,5 @@
         @import url(https://fonts.googleapis.com/css?family=Satisfy);
-
+        
 /* Add a Server + Discover: fixed icon, no state changes */
 #app-mount :is([data-list-item-id="guildsnav___create-join-button"],[data-list-item-id="guildsnav___guild-discover-button"]),
 #app-mount :is([data-list-item-id="guildsnav___create-join-button"],[data-list-item-id="guildsnav___guild-discover-button"]):is(:hover,:focus,:focus-visible,:active) {
